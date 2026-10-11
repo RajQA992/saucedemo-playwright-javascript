@@ -54,5 +54,10 @@ test.describe('SauceDemo order flow', () => {
 
     await checkoutPage.finish();
     await confirmationPage.expectDisplayed();
+
+
+    //uploaded on git
+
+
   });
 });
